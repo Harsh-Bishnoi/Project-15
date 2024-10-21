@@ -1,0 +1,13 @@
+:root {
+    --font-family-dm: "DM Sans", sans-serif;
+    /* color */
+    --color-a1a1b0: #a1a1b0;
+}
+
+.dm {
+    font-family: var(--font-family-dm);
+}
+
+.a1a1b0{
+    color: var(--color-a1a1b0);
+}
