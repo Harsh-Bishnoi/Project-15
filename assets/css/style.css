@@ -93,6 +93,7 @@ section {
     text-align: center;
     white-space: nowrap;
     cursor: pointer;
+    color: #1E0E62;
 }
 
 .head {
@@ -196,7 +197,6 @@ iframe {
 }
 
 .ul-1 {
-
     justify-content: space-between;
     display: flex;
     width: 100%;
@@ -223,6 +223,7 @@ iframe {
     line-height: 26px;
     text-align: left;
     font-weight: 500;
+    transition: all 200ms linear;
 }
 
 .pricing:hover {
